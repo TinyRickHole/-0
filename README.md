@@ -1,2 +1,3 @@
-# -Learning-0
-Beginer Stuff
+# -0
+Beginer Stuff:
+For Various OS
