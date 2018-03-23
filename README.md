@@ -1,3 +1,3 @@
 # -0
 Beginer Stuff:
-For Various OS
+For various diffrent OSes
